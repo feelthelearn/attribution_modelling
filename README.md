@@ -1,2 +1,1 @@
-# attribution_modelling
-Attribution models
+# Расчет кастомных моделей атрибуции
